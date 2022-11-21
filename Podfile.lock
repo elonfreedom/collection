@@ -1,0 +1,48 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - NFCReaderWriter (1.1.4)
+  - Realm (10.32.3):
+    - Realm/Headers (= 10.32.3)
+  - Realm/Headers (10.32.3)
+  - RealmSwift (10.32.3):
+    - Realm (= 10.32.3)
+  - SnapKit (5.6.0)
+  - SwiftAlgorithms (1.0.0)
+  - URLNavigator (2.4.1)
+
+DEPENDENCIES:
+  - Charts
+  - IQKeyboardManagerSwift
+  - NFCReaderWriter
+  - RealmSwift
+  - SnapKit
+  - URLNavigator
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - IQKeyboardManagerSwift
+    - NFCReaderWriter
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SwiftAlgorithms
+    - URLNavigator
+
+SPEC CHECKSUMS:
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  NFCReaderWriter: b21965d1b3b8c53f7648f58f597b77a13f6ecdc5
+  Realm: fdf6732924dc5e69e30e0db2c11e869f92b53f3d
+  RealmSwift: 7c181da8fa1c2fe613656a77c198d6a3dc3879a1
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  URLNavigator: 9e277a422a5c131a3e37970c2558e0e866cc22bd
+
+PODFILE CHECKSUM: d5196d88db9f98c72f913b3477aceb2fd5d40ba6
+
+COCOAPODS: 1.11.3
